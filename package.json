@@ -1,0 +1,13 @@
+{
+    "name": "js-jango",
+    "description": "A javascript interface to the JangoMail service",
+    "version": "0.0.1",
+    "author": "Pollenware (http://pollenware.github.com)",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "engines": {
+        "node": ">= 0.4.4"
+    }
+}
