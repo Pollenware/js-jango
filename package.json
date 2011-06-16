@@ -9,5 +9,9 @@
     },
     "engines": {
         "node": ">= 0.4.4"
+    },
+    "dependencies" :
+    {
+        "comb" : ">=0.0.2"
     }
 }
