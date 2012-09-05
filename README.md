@@ -44,18 +44,18 @@ test.sendToJango().then(function(res) {
 
 ##Usage
 
-* [BaseJangoRequest](http://pollenware.github.com/js-jango/symbols/BaseJangoRequest.html) The base class handles
+* [BaseJangoRequest](http://c2fo.github.com/js-jango/symbols/BaseJangoRequest.html) The base class handles
 communication with the Jango API.
 * Sub-classes
-  *  [SendMassJangoEmail](http://pollenware.github.com/js-jango/symbols/jsJango.SendMassJangoEmail.html) Sets up a campaign.
-  *  [JangoJobUtil](http://pollenware.github.com/js-jango/symbols/jsJango.JangoJobUtil.html) Manages an existing campaign.
+  *  [SendMassJangoEmail](http://c2fo.github.com/js-jango/symbols/jsJango.SendMassJangoEmail.html) Sets up a campaign.
+  *  [JangoJobUtil](http://c2fo.github.com/js-jango/symbols/jsJango.JangoJobUtil.html) Manages an existing campaign.
 
 ##License
 
-MIT <https://github.com/Pollenware/moose/raw/master/LICENSE>
+MIT <https://github.com/C2FO/js-jango/raw/master/LICENSE>
 
 ##Meta
 
-* Code: `git clone git://github.com/pollenware/js-jango.git`
-* JsDoc: <http://pollenware.github.com/js-jango>
-* Website:  <http://pollenware.com> - Twitter: <http://twitter.com/pollenware> - 877.465.4045
+* Code: `git clone git://github.com/c2fo/js-jango.git`
+* JsDoc: <http://c2fo.github.com/js-jango>
+* Website:  <http://c2fo.com> - Twitter: <http://twitter.com/c2fo> - 877.465.4045
